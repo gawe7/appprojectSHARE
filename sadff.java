@@ -1,2 +1,2 @@
-public class sadff                                    {
+public class sadff   {/*เกหดเัหก้ */
 }
